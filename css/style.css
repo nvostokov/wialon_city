@@ -1,25 +1,159 @@
 #map {
   width: 100%;
-  height: 700px; }
+  height: 700px;
+  -webkit-box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.15);
+          box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.15);
+}
 
 #log {
-  border: 1px solid #c6c6c6; }
+  border: 1px solid #c6c6c6;
+}
 
 #no-results {
-  display: none; }
+  display: none;
+}
 
 #results-table {
-  display: none; }
+  display: none;
+}
 
 #doubleclick-hint {
-  color: gray; }
+  color: gray;
+}
 
 #latlng.invalid {
-  border-color: red; }
+  border-color: red;
+}
 
 #unit-refresh-button {
-  display: none; }
+  display: none;
+}
 
 #resources {
-  display: none; }
-/*# sourceMappingURL=style.css.map */
+  display: none;
+}
+
+.wrapper {
+  position: relative;
+}
+
+.map__info {
+  position: absolute;
+  top: -220px;
+  left: 20px;
+  width: 200px;
+  height: 150px;
+  background-color: rgba(61, 92, 153, 0.75);
+  padding: 20px 30px 20px 20px;
+  -webkit-box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.2);
+          box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.2);
+  color: #fff;
+}
+
+.map__ts {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.map__ts select {
+  height: 30px;
+  width: 250px;
+}
+
+.map__legend {
+  padding: 15px;
+  margin-left: 50px;
+  margin-top: 10px;
+}
+
+.map__red {
+  font-size: 16px;
+  position: relative;
+}
+
+.map__red::before {
+  position: absolute;
+  top: 45%;
+  left: -30px;
+  content: '';
+  width: 20px;
+  height: 2px;
+  background-color: red;
+}
+
+.map__purple {
+  font-size: 16px;
+  position: relative;
+}
+
+.map__purple::before {
+  position: absolute;
+  top: 45%;
+  left: -30px;
+  content: '';
+  width: 20px;
+  height: 2px;
+  background-color: #9c27b0;
+}
+
+.map__blue {
+  font-size: 16px;
+  position: relative;
+}
+
+.map__blue::before {
+  position: absolute;
+  top: 45%;
+  left: -30px;
+  content: '';
+  width: 20px;
+  height: 2px;
+  background-color: #0000ff;
+}
+
+.map__green {
+  font-size: 16px;
+  position: relative;
+}
+
+.map__green::before {
+  position: absolute;
+  top: 45%;
+  left: -30px;
+  content: '';
+  width: 20px;
+  height: 2px;
+  background-color: #0f9d58;
+}
+
+.map__black {
+  font-size: 16px;
+  position: relative;
+}
+
+.map__black::before {
+  position: absolute;
+  top: 45%;
+  left: -30px;
+  content: '';
+  width: 20px;
+  height: 2px;
+  background-color: black;
+}
+
+.map__logo {
+  opacity: 0.9;
+  position: absolute;
+  top: -70px;
+  right: 10px;
+  -webkit-box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.2);
+          box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.2);
+}
+
+.map__logo img {
+  width: 40px;
+}

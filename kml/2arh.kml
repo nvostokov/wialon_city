@@ -1,0 +1,1712 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<kml>
+	<Document>
+		<name>
+			2arh
+		</name>
+		<Placemark>
+			<name>
+				ул. Розинга
+			</name>
+			<description>
+				Гагарина ул., 42/2, Архангельск
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.5548712035,64.5560547474,0 40.5548497458,64.556275998,0 40.5550428649,64.5564373255,0 40.555750968,64.5575204993,0 40.5570384284,64.5596037596,0 40.5572530051,64.5600323752,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				А/д в пос. Боры
+			</name>
+			<description>
+				А/Д в пос Боры
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.356654,64.517576,0 40.356546,64.517303,0 40.356514,64.516938,0 40.356536,64.515329,0 40.356579,64.514003,0 40.356668,64.512441,0 40.356689,64.509482,0 40.356689,64.507364,0 40.356732,64.504452,0 40.356689,64.503989,0 40.356475,64.503758,0 40.354951,64.502315,0 40.353277,64.500724,0 40.353149,64.500419,0 40.353084,64.499874,0 40.353299,64.499337,0 40.35405,64.498801,0 40.354758,64.498486,0 40.355477,64.498278,0 40.356582,64.498065,0 40.360283,64.497593,0 40.361678,64.497381,0 40.362579,64.49721,0 40.363255,64.497006,0 40.364639,64.49634,0 40.365712,64.495674,0 40.366452,64.495188,0 40.366785,64.494703,0 40.366871,64.494268,0 40.366764,64.494074,0 40.366324,64.493815,0 40.366324,64.493579,0 40.36657,64.49313,0 40.366967,64.492515,0 40.366892,64.49164,0 40.366785,64.489693,0 40.366839,64.489392,0 40.367064,64.489114,0 40.367536,64.488772,0 40.367858,64.488407,0 40.368105,64.487861,0 40.368263,64.487171,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				А/д от жд переезда Глухое до СМП
+			</name>
+			<description>
+				А/д от железнодорожного переезда Глухое до жилого м/р СМП
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.578157,64.506045,0 40.578286,64.505559,0 40.57835,64.505374,0 40.578243,64.505231,0 40.577942,64.505125,0 40.577492,64.504944,0 40.577481,64.504773,0 40.57761,64.504598,0 40.578093,64.504209,0 40.578318,64.504057,0 40.578581,64.503909,0 40.579353,64.503596,0 40.58011,64.503363,0 40.580786,64.503088,0 40.581723,64.502665,0 40.582592,64.502091,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Дорога на кладбище Жаровиха
+			</name>
+			<description>
+				Дорога на кладбище Жаровиха
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.744178,64.484577,0 40.744897,64.485924,0 40.744897,64.486062,0 40.745347,64.48684,0 40.745358,64.486932,0 40.745827,64.487738,0 40.746297,64.488452,0 40.747093,64.489531,0 40.747769,64.49044,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Наб. Седова
+			</name>
+			<description>
+				Набережная Седова
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.502061,64.58686,0 40.501804,64.586242,0 40.501439,64.585224,0 40.501192,64.584214,0 40.501053,64.583144,0 40.500774,64.581563,0 40.500827,64.580973,0 40.500591,64.580774,0 40.500581,64.580535,0 40.501138,64.578515,0 40.501417,64.577869,0 40.502454,64.576362,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				пер. Театральный
+			</name>
+			<description>
+				Театральный
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.520671,64.53352,0 40.522881,64.534813,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				пер. Широкий
+			</name>
+			<description>
+				пер. Широкий
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.503608,64.578217,0 40.50496,64.576866,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				пр-д Выборного
+			</name>
+			<description>
+				Выборного проезд
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.530452,64.564688,0 40.53307,64.563535,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				пр-д Приорова
+			</name>
+			<description>
+				Приорова
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.55071,64.546241,0 40.550249,64.546643,0 40.549659,64.546888,0 40.548919,64.548162,0 40.548554,64.548808,0 40.548607,64.549007,0 40.549404,64.550234,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				пр. Новгородский
+			</name>
+			<description>
+				Новгородский
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.529103,64.541265,0 40.528749,64.541461,0 40.528406,64.541884,0 40.527912,64.542516,0 40.528223,64.543244,0 40.528835,64.544414,0 40.529746,64.546335,0 40.530646,64.548382,0 40.531222,64.549675,0 40.531758,64.550914,0 40.532557,64.55277,0 40.532976,64.553682,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				пр. Новогородский
+			</name>
+			<description>
+				От Выучейского до Урицкого
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.54188,64.5350879,0 40.5423467,64.5349426,0 40.5428456,64.5348019,0 40.5435752,64.534675,0 40.5452489,64.5344329,0 40.5481671,64.5339023,0 40.5491879,64.5337202,0 40.5514631,64.5333892,0 40.5535237,64.5330351,0 40.5609076,64.5317756,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				пр. Обводный канал
+			</name>
+			<description>
+				Обводный от Гагарина до Тыко Вылки
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						20.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.5506617,64.5581284,0 40.5536472,64.5592725,0 40.5558373,64.5601303,0 40.5566298,64.5604259,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Проезд за магазином БУМ
+			</name>
+			<description>
+				Проезд за магазином БУМ
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.562228,64.555361,0 40.562045,64.554826,0 40.561906,64.554369,0 40.561562,64.554281,0 40.559889,64.553903,0 40.557147,64.55329,0 40.556312,64.553115,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. 40 лет Победы
+			</name>
+			<description>
+				Ул. 40 лет Победы
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.580989,64.60346,0 40.581139,64.603525,0 40.581391,64.603568,0 40.581642,64.603599,0 40.582282,64.603636,0 40.582541,64.603644,0 40.582844,64.603652,0 40.583068,64.603642,0 40.583919,64.603566,0 40.584109,64.603581,0 40.584232,64.603596,0 40.58478,64.603689,0 40.585079,64.603725,0 40.585269,64.60373,0 40.586344,64.603737,0 40.58707,64.603741,0 40.5877,64.603733,0 40.588257,64.603727,0 40.589127,64.603728,0 40.590292,64.603726,0 40.590748,64.603724,0 40.591169,64.603733,0 40.59186,64.603764,0 40.592433,64.603791,0 40.592832,64.603782,0 40.593524,64.603767,0 40.593791,64.603744,0 40.59397,64.603719,0 40.594369,64.603652,0 40.594848,64.603569,0 40.595442,64.603468,0 40.596055,64.603358,0 40.596498,64.603281,0 40.597255,64.603149,0 40.598103,64.603001,0 40.599043,64.602838,0 40.59979,64.602706,0 40.600714,64.602543,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Беломорской флотилии
+			</name>
+			<description>
+				Беломорской флотилии
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.502421,64.576396,0 40.505113,64.576889,0 40.507324,64.577364,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Валявкина
+			</name>
+			<description>
+				Валявкина от ул. Советская до пром. комбината
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.523789,64.571995,0 40.52748,64.572706,0 40.53013,64.57319,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Вельская
+			</name>
+			<description>
+				ул.Вельская от ул.Ильинской  до Первомайской
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.581538,64.528359,0 40.581903,64.528274,0 40.582799,64.52802,0 40.583292,64.527858,0 40.585395,64.527687,0 40.587739,64.527509,0 40.590051,64.527334,0 40.59091,64.52729,0 40.594616,64.526976,0 40.596172,64.526812,0 40.599246,64.526488,0 40.600174,64.526389,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Вологодская
+			</name>
+			<description>
+				Вологодская
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.517684,64.55597,0 40.522598,64.555222,0 40.527963,64.554447,0 40.541245,64.55249,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Володарского
+			</name>
+			<description>
+				Володарского
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.526433,64.532373,0 40.530273,64.534516,0 40.532741,64.535883,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Воронина
+			</name>
+			<description>
+				ул. Воронина от ул. Дачной до ул. Папанина
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.665122,64.517066,0 40.667622,64.515984,0 40.670315,64.514847,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Гайдара
+			</name>
+			<description>
+				Гайдара
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.516184,64.55372,0 40.521398,64.553156,0 40.52702,64.552584,0 40.536719,64.551578,0 40.550967,64.550064,0 40.551216,64.550085,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Горького
+			</name>
+			<description>
+				Ул. Горького
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.5811,64.594109,0 40.581926,64.594957,0 40.582269,64.595262,0 40.583514,64.596676,0 40.584319,64.597741,0 40.584748,64.598312,0 40.584855,64.598676,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Ильинская
+			</name>
+			<description>
+				ул. Ильинская
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.580592,64.5272,0 40.581289,64.528062,0 40.581818,64.528707,0 40.581976,64.528931,0 40.58197,64.528985,0 40.58189,64.52904,0 40.581777,64.529081,0 40.581182,64.529148,0 40.580763,64.529196,0 40.57998,64.529274,0 40.579278,64.52935,0 40.579074,64.529375,0 40.578891,64.529391,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Ильича
+			</name>
+			<description>
+				Ул. Ильича от Кировской до 40 лет Победы
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.573436,64.595405,0 40.575603,64.597682,0 40.576631,64.598821,0 40.577556,64.599742,0 40.580056,64.602446,0 40.580978,64.603464,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Иоанна Кронштадтского
+			</name>
+			<description>
+				Иоанна Кронштадтского
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.53332,64.531204,0 40.538245,64.534003,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Карла Либкнехта
+			</name>
+			<description>
+				Карла Либнехта
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.515144,64.534327,0 40.516303,64.535094,0 40.518621,64.536424,0 40.524436,64.538382,0 40.52545,64.53877,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Карла Маркса
+			</name>
+			<description>
+				Карла Маркса
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.512535,64.545392,0 40.516933,64.544944,0 40.51703,64.545145,0 40.519283,64.544881,0 40.521783,64.544618,0 40.522217,64.544627,0 40.524599,64.544383,0 40.528671,64.543933,0 40.531932,64.543579,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Кедрова
+			</name>
+			<description>
+				Кедрова (От Советской до Полярной)
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.512394,64.587055,0 40.516257,64.587299,0 40.521857,64.587668,0 40.526256,64.58796,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Кольская
+			</name>
+			<description>
+				Ул. Кольская
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.588889,64.598905,0 40.587859,64.599075,0 40.585338,64.599485,0 40.583718,64.599752,0 40.583433,64.599766,0 40.582773,64.599886,0 40.581089,64.600176,0 40.579614,64.600432,0 40.579394,64.60048,0 40.579162,64.600497,0 40.578936,64.600469,0 40.578593,64.600427,0 40.5781,64.600384,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Комсомольская
+			</name>
+			<description>
+				Комсомольская
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.52822,64.563759,0 40.535795,64.5604,0 40.54206,64.557668,0 40.545494,64.556127,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Кр. Маршалов
+			</name>
+			<description>
+				Ул. Кр. Маршалов
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.591971,64.594987,0 40.590372,64.595263,0 40.588913,64.595452,0 40.586108,64.59595,0 40.583265,64.596438,0 40.581757,64.596692,0 40.579998,64.596994,0 40.578072,64.597346,0 40.575674,64.597759,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Краснофлотская
+			</name>
+			<description>
+				Краснофлотская
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.510862,64.57343,0 40.518002,64.574756,0 40.519408,64.57503,0 40.521481,64.575486,0 40.522645,64.575769,0 40.523197,64.575969,0 40.523717,64.576183,0 40.523819,64.57629,0 40.524093,64.576378,0 40.524645,64.576696,0 40.524801,64.576853,0 40.524723,64.577033,0 40.524554,64.5772,0 40.524201,64.577503,0 40.524129,64.577575,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Красных Партизан
+			</name>
+			<description>
+				Красных Партизан
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.501048,64.583325,0 40.505597,64.583316,0 40.51315,64.583348,0 40.516959,64.583383,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Куликова
+			</name>
+			<description>
+				Куликова (от Ломоносова до Новгородского)
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.554662,64.528635,0 40.556641,64.530332,0 40.55861,64.532164,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Ленина
+			</name>
+			<description>
+				ул.Ленина от пр.Ленинградского до Окружного шоссе
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.635801,64.516607,0 40.638257,64.517428,0 40.640586,64.518276,0 40.643606,64.519411,0 40.647522,64.520862,0 40.650172,64.522479,0 40.653488,64.524526,0 40.655601,64.525316,0 40.659893,64.527003,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Логинова
+			</name>
+			<description>
+				Логинова
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.514669,64.549442,0 40.515367,64.549456,0 40.516955,64.549313,0 40.524572,64.548625,0 40.531245,64.548043,0 40.538058,64.547452,0 40.538552,64.547429,0 40.538954,64.547461,0 40.538364,64.547609,0 40.537039,64.547754,0 40.533681,64.54805,0 40.528821,64.548486,0 40.521997,64.549089,0 40.517313,64.549518,0 40.514658,64.549744,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Маймаксанская
+			</name>
+			<description>
+				ул. Маймаксанская от Баумана до проходной
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.520317,64.628525,0 40.521481,64.629093,0 40.522732,64.629692,0 40.523231,64.62997,0 40.52373,64.630727,0 40.524497,64.631855,0 40.524674,64.63212,0 40.524695,64.632343,0 40.524529,64.632709,0 40.524486,64.632801,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Маяковского
+			</name>
+			<description>
+				Маяковского
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.501424,64.577867,0 40.505866,64.578566,0 40.505727,64.578609,0 40.508162,64.57904,0 40.512818,64.579815,0 40.516514,64.580451,0 40.523161,64.581639,0 40.524427,64.58186,0 40.530934,64.582944,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Мещерского
+			</name>
+			<description>
+				ул. Мещерского
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.511643,64.589952,0 40.515195,64.58997,0 40.518349,64.590017,0 40.521707,64.590067,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Мусинского
+			</name>
+			<description>
+				Ул. Мусинского
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.580145,64.586553,0 40.582366,64.586858,0 40.584383,64.587153,0 40.586797,64.587494,0 40.589415,64.587678,0 40.589705,64.587747,0 40.591099,64.588568,0 40.593323,64.589862,0 40.593419,64.590221,0 40.594672,64.590943,0 40.595047,64.591288,0 40.595262,64.591496,0 40.595423,64.591703,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Нагорная
+			</name>
+			<description>
+				Нагорная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.552154,64.546544,0 40.552541,64.547144,0 40.552122,64.547615,0 40.551704,64.54845,0 40.551017,64.550177,0 40.551521,64.55092,0 40.553238,64.55338,0 40.553978,64.55464,0 40.554182,64.554779,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Октябрят
+			</name>
+			<description>
+				ул. Октябрят
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.601698,64.53833,0 40.601162,64.537466,0 40.600625,64.536556,0 40.599817,64.535211,0 40.599012,64.53383,0 40.598454,64.532856,0 40.597899,64.531882,0 40.597711,64.531896,0 40.597665,64.531799,0 40.597561,64.531591,0 40.597502,64.531433,0 40.597384,64.531253,0 40.59733,64.531166,0 40.597287,64.53101,0 40.597244,64.530851,0 40.597056,64.530634,0 40.596965,64.530483,0 40.596794,64.530155,0 40.596858,64.530037,0 40.596549,64.529718,0 40.59649,64.529537,0 40.596343,64.529419,0 40.596249,64.529202,0 40.596069,64.528877,0 40.595788,64.528344,0 40.59575,64.528272,0 40.59567,64.528256,0 40.595415,64.528267,0 40.595337,64.528247,0 40.595163,64.527964,0 40.594948,64.527584,0 40.594602,64.526976,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Орджоникидзе
+			</name>
+			<description>
+				ул. Орджоникидзе
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.578915,64.594438,0 40.580224,64.595922,0 40.581823,64.597798,0 40.5831,64.599226,0 40.58413,64.600365,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Павла Усова
+			</name>
+			<description>
+				ул.Павла Усова
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.577937,64.527431,0 40.577937,64.52754,0 40.578602,64.528806,0 40.579214,64.530041,0 40.57989,64.531418,0 40.58056,64.532751,0 40.58108,64.53388,0 40.581767,64.535298,0 40.582325,64.536399,0 40.582582,64.536933,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Партизанская
+			</name>
+			<description>
+				Ул. Партизанская от Кировской до ул.Мусинского
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.583252,64.593731,0 40.583134,64.593575,0 40.583081,64.593162,0 40.583183,64.592876,0 40.583488,64.59242,0 40.583746,64.592058,0 40.584137,64.59142,0 40.584636,64.590653,0 40.585178,64.589864,0 40.585361,64.589639,0 40.585548,64.589484,0 40.585682,64.589302,0 40.585961,64.588913,0 40.586171,64.588654,0 40.586417,64.588332,0 40.586551,64.588067,0 40.586691,64.587802,0 40.586734,64.587479,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Первомайская
+			</name>
+			<description>
+				ул. Первомайская от пр. Ленинградский до ул. Абрамова
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.599724,64.525444,0 40.599729,64.525618,0 40.600205,64.526447,0 40.600741,64.527403,0 40.601047,64.527959,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Полярная
+			</name>
+			<description>
+				ул. Полярная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.527298,64.583562,0 40.527126,64.58524,0 40.52704,64.585572,0 40.526944,64.586342,0 40.526665,64.586513,0 40.526557,64.586941,0 40.526407,64.587559,0 40.526278,64.587743,0 40.526225,64.58796,0 40.526418,64.588002,0 40.526289,64.58832,0 40.526128,64.58914,0 40.525957,64.590163,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Поморская
+			</name>
+			<description>
+				Поморская
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.522057,64.533263,0 40.525868,64.535424,0 40.530181,64.537793,0 40.531866,64.538736,0 40.535438,64.540698,0 40.538072,64.542104,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Попова
+			</name>
+			<description>
+				Попова
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.513783,64.547718,0 40.518278,64.547227,0 40.520623,64.546931,0 40.523654,64.546606,0 40.527334,64.5462,0 40.53211,64.545677,0 40.535892,64.545273,0 40.53645,64.54522,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Пушкинская
+			</name>
+			<description>
+				ул. Пушкинская
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.584256,64.597694,0 40.583773,64.597776,0 40.582432,64.598011,0 40.581244,64.598223,0 40.579476,64.598532,0 40.57821,64.598751,0 40.577843,64.598776,0 40.577706,64.59879,0 40.577185,64.598774,0 40.576636,64.598816,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Репина
+			</name>
+			<description>
+				Ул. Репина
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.589672,64.58997,0 40.585939,64.589551,0 40.582462,64.589113,0 40.579662,64.588786,0 40.578364,64.588652,0 40.576208,64.588389,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Розы Люксембург
+			</name>
+			<description>
+				Розы Люксембург
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.541826,64.529207,0 40.544862,64.531494,0 40.548081,64.533909,0 40.5488,64.534685,0 40.550999,64.536999,0 40.55367,64.539641,0 40.556315,64.542334,0 40.55698,64.54299,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Садовая
+			</name>
+			<description>
+				Садовая
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.515296,64.55205,0 40.520521,64.551427,0 40.525843,64.550794,0 40.531486,64.550116,0 40.535627,64.549654,0 40.538996,64.549331,0 40.544597,64.548736,0 40.548556,64.548339,0 40.548824,64.548352,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Самойло
+			</name>
+			<description>
+				Самойло
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.539979,64.558582,0 40.545526,64.560894,0 40.546513,64.561258,0 40.547049,64.561323,0 40.555149,64.561226,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Северодвинская
+			</name>
+			<description>
+				Северодвинская (от Ломоносова до Новгородского)
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.5514431,64.5333891,0 40.551379,64.533329,0 40.551121,64.533047,0 40.549694,64.531582,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Серафимовича
+			</name>
+			<description>
+				Серафимовича
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.529312,64.531635,0 40.530965,64.532619,0 40.535138,64.534979,0 40.539215,64.537353,0 40.540578,64.538096,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Сибиряковцев
+			</name>
+			<description>
+				Сибиряковцев от Теснанова до Тыко Вылки
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.550976,64.563821,0 40.551362,64.563678,0 40.551706,64.563609,0 40.552757,64.563337,0 40.555257,64.562681,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Смольный Буян
+			</name>
+			<description>
+				ул. Смольный буян от пр. Московского до ГИБДД
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.572026,64.534376,0 40.571736,64.534016,0 40.57047,64.532741,0 40.569537,64.531762,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Стрелковая
+			</name>
+			<description>
+				ул. Стрелковая от ул. Октябрят до ул. Смольный Буян
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.599835,64.535278,0 40.598387,64.535426,0 40.595226,64.535744,0 40.591074,64.53615,0 40.58762,64.536474,0 40.584519,64.536788,0 40.583961,64.536783,0 40.581794,64.537,0 40.578371,64.537333,0 40.575689,64.537597,0 40.575131,64.537577,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Суворова
+			</name>
+			<description>
+				Суворова
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.522781,64.561291,0 40.525243,64.560299,0 40.525098,64.560176,0 40.525543,64.560059,0 40.527131,64.559447,0 40.529572,64.558573,0 40.531288,64.558047,0 40.533654,64.557281,0 40.537071,64.556155,0 40.539062,64.555492,0 40.540419,64.555118,0 40.541518,64.554962,0 40.542854,64.554952,0 40.54309,64.55492,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Суфтина
+			</name>
+			<description>
+				Суфтина от Логинова до Садовой
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.543447,64.547075,0 40.54394,64.54798,0 40.544364,64.548777,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Таёжная до дома №14
+			</name>
+			<description>
+				ул. Таёжная до дома №14
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.769119,64.459116,0 40.77119,64.458417,0 40.772767,64.457884,0 40.773132,64.457713,0 40.774248,64.45737,0 40.776919,64.456624,0 40.777445,64.456467,0 40.777922,64.456321,0 40.778185,64.456293,0 40.778341,64.456328,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Терехина
+			</name>
+			<description>
+				ул. Терехина от пр. Никольского до ул. Советской
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.507252,64.576736,0 40.507968,64.576911,0 40.508778,64.577074,0 40.511632,64.577596,0 40.513831,64.578001,0 40.51528,64.578264,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Титова
+			</name>
+			<description>
+				Ул. Титова
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.578661,64.594531,0 40.57894,64.593985,0 40.579267,64.593467,0 40.579884,64.592547,0 40.58041,64.591745,0 40.58085,64.591038,0 40.581306,64.590286,0 40.581821,64.589579,0 40.58218,64.589067,0 40.582448,64.588599,0 40.582851,64.587952,0 40.583216,64.587359,0 40.583452,64.587016,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Тыко Вылки
+			</name>
+			<description>
+				Тыко Вылки
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.5573,64.560011,0 40.557236,64.560093,0 40.557086,64.560192,0 40.556815,64.560333,0 40.555865,64.560809,0 40.555299,64.5611,0 40.555131,64.56123,0 40.55516,64.561589,0 40.555224,64.562197,0 40.555251,64.562504,0 40.555224,64.562706,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Учительская
+			</name>
+			<description>
+				Учительская
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.562606,64.539057,0 40.5637,64.53883,0 40.56811,64.538073,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Федора Абрамова
+			</name>
+			<description>
+				ул. Федора Абрамова
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.601031,64.527957,0 40.603864,64.527661,0 40.606568,64.527351,0 40.610805,64.526875,0 40.61338,64.526577,0 40.613649,64.52649,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Холмогорская
+			</name>
+			<description>
+				ул.Холмогорская от ул.Дачной до ул. Папанина
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.660488,64.513455,0 40.661045,64.513215,0 40.662955,64.512064,0 40.66361,64.511809,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Челюскинцев
+			</name>
+			<description>
+				ул. Челюскинцев
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.507154,64.581242,0 40.504805,64.581177,0 40.503646,64.58111,0 40.500771,64.580947,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Чкалова
+			</name>
+			<description>
+				Ул. Чкалова
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.639375,64.51476,0 40.640909,64.515331,0 40.643639,64.516334,0 40.645286,64.516974,0 40.647695,64.517829,0 40.649277,64.51837,0 40.650747,64.518899,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Шабалина
+			</name>
+			<description>
+				Шабалина
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.553085,64.546139,0 40.553412,64.545865,0 40.554061,64.545366,0 40.555928,64.544172,0 40.556733,64.543623,0 40.557178,64.543321,0 40.557189,64.543189,0 40.557055,64.543094,0 40.556974,64.542977,0 40.557269,64.542873,0 40.55743,64.542884,0 40.557827,64.542633,0 40.559951,64.54134,0 40.56089,64.540765,0 40.561256,64.54057,0 40.561846,64.540369,0 40.562919,64.539794,0 40.563053,64.539676,0 40.563004,64.539515,0 40.562876,64.539351,0 40.562473,64.538928,0 40.560096,64.536574,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Школьная
+			</name>
+			<description>
+				ул. Школьная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.775669,64.456966,0 40.776623,64.457624,0 40.77804,64.458578,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Шубина
+			</name>
+			<description>
+				Шубина
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.518998,64.55797,0 40.523676,64.557194,0 40.528901,64.55629,0 40.534236,64.555438,0 40.542465,64.554136,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Ярославская
+			</name>
+			<description>
+				ул. Ярославская от Советской до Кр. Партизан
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb0279c
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.514831,64.591858,0 40.514917,64.591748,0 40.514917,64.591531,0 40.515035,64.590955,0 40.51512,64.590374,0 40.515185,64.589946,0 40.515389,64.589273,0 40.515839,64.58771,0 40.516054,64.587083,0 40.516172,64.586562,0 40.516301,64.585834,0 40.516526,64.585147,0 40.516805,64.584174,0 40.516944,64.583787,0 40.516944,64.583381,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+</kml>
+

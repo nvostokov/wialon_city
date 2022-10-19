@@ -508,8 +508,95 @@ function initMap() {
     // copyrights
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors | &copy; <a href="http://gurtam.com">Gurtam</a>'
   }).addTo(map);
-  
-  omnivore.kml('kml/arh.kml').addTo(map);
+
+
+// 
+var customLayer = L.geoJson(null, {
+    style: function(feature) {
+        return { color: '#ff0000',
+                weight: 3.5,
+                opacity: 1
+              }
+    },
+    onEachFeature: function(feature, layer) {
+      layer.bindPopup(feature.properties.name);
+}
+});
+// this can be any kind of omnivore layer
+omnivore.kml('kml/1arh.kml', null, customLayer).addTo(map); 
+
+
+
+//
+var customLayer2 = L.geoJson(null, {
+  style: function(feature) {
+      return { color: '#9c27b0',
+              weight: 3.5,
+              opacity: 1
+            }
+          },
+          onEachFeature: function(feature, layer) {
+            layer.bindPopup(feature.properties.name);
+      }
+      });
+// this can be any kind of omnivore layer
+omnivore.kml('kml/2arh.kml', null, customLayer2).addTo(map);
+
+
+//
+var customLayer3 = L.geoJson(null, {
+  style: function(feature) {
+      return { color: '#0000ff',
+              weight: 3.5,
+              opacity: 1
+            }
+          },
+          onEachFeature: function(feature, layer) {
+            layer.bindPopup(feature.properties.name);
+      }
+      });
+// this can be any kind of omnivore layer
+omnivore.kml('kml/2_arh.kml', null, customLayer3).addTo(map);
+
+
+//
+var customLayer4 = L.geoJson(null, {
+  style: function(feature) {
+      return { color: '#0f9d58',
+              weight: 3.5,
+              opacity: 1
+            }
+          },
+          onEachFeature: function(feature, layer) {
+            layer.bindPopup(feature.properties.name);
+      }
+      });
+// this can be any kind of omnivore layer
+omnivore.kml('kml/3arh.kml', null, customLayer4).addTo(map);
+
+
+//
+var customLayer5 = L.geoJson(null, {
+  style: function(feature) {
+      return { color: '#424242',
+               weight: 1.5,
+               opacity: 1
+              }
+            },
+            onEachFeature: function(feature, layer) {
+              layer.bindPopup(feature.properties.name);
+        }
+        });
+
+// this can be any kind of omnivore layer
+omnivore.kml('kml/trot.kml', null, customLayer5).addTo(map);
+
+
+
+
+
+//добавить без цвета
+/*   omnivore.kml('kml/arh.kml').addTo(map); */
 
   // handle mouse double-click event
   map.on('dblclick', function(e) {
@@ -558,4 +645,5 @@ var unitFlags     = wialon.item.Item.dataFlag.base | wialon.item.Unit.dataFlag.l
 
   resource.getZonesData([1,2,3,4,5,6,7,8,9,10], zoneFlags, callback);
  */
+
 
