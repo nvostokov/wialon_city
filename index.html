@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Wialon</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/leaflet.css">
+
+</head>
+<body>
+
+
+<!-- load map -->
+
+<div id="map"></div>
+<p id='doubleclick-hint'></p>
+
+<p id='no-results'>Нет геозоны на этой позиции</p>
+    
+<table id='results-table'><thead><tr>
+    <td>№</td>
+    <td>Название геозоны</td>
+</tr></thead><tbody id='results-table-body'></tbody></table>
+
+<p>Координаты: <input id='latlng' type='text' placeholder='latitude, longitude'>
+   <button id='apply-location-button'>Apply</button></p>
+<p>ТС: <select id='units'><option value='0'>—</option></select> <button id='unit-refresh-button'>Refresh</button></p>
+<p><!-- Resources: --> <select id='resources'><option value='0'>All</option></select></p>
+<script src="js/jquery-3.6.0.min.js"></script>
+<script type="text/javascript" src="//hst-api.wialon.com/wsdk/script/wialon.js"></script>
+<script src="js/leaflet.js"></script>
+<script src="js/KML.js"></script>
+
+ <script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script>
+<!--  <script src="js/scr.js"></script>
+ --><script src="js/script.js"></script>
+</body>
+</html>
