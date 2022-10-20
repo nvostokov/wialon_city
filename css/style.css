@@ -144,12 +144,17 @@ body {
   width: 40px; }
 
 @media (max-width: 767px) {
+	#map {
+		height:500px;
+	}
 	.map__legend {
 	  	top: 20px;
-		left: calc(50% - 175px);
+		left: calc(50% - 140px);
+		width: 215px;
 	}
 	.map__info {
 	  	top: 260px;
-    left: calc(50% - 135px);}
+		left: calc(50% - 140px);
+		}
   }
 /*# sourceMappingURL=style.css.map */
