@@ -142,4 +142,10 @@ body {
 
 .map__logo img {
   width: 40px; }
+
+@media (max-width: 767px) {
+  .map__legend {
+  display: none;
+  }
+}
 /*# sourceMappingURL=style.css.map */
