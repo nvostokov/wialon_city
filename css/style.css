@@ -156,5 +156,8 @@ body {
 	  	top: 260px;
 		left: calc(50% - 140px);
 		}
+	.map__logo {
+		display: none;
+	}
   }
 /*# sourceMappingURL=style.css.map */
