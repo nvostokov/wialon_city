@@ -187,9 +187,6 @@ body {
 }
 
 @media (max-width: 767px) {
-.button-map {
-	display:none;
-	}
   #map {
     height: 500px;
   }
@@ -309,3 +306,8 @@ body {
   text-decoration-color: #fff;
   -moz-text-decoration-color: #fff;
 }
+
+@media (max-width: 767px) {
+  .button-map {
+    display: none;
+  }}
