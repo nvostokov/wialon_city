@@ -238,3 +238,47 @@ body {
     height: 400px;
   }
 }
+
+
+.button-map {
+  cursor: pointer;
+  width: 120px;
+  height: 25px;
+  margin-top: 10px;
+  appearance: none;
+  border: 0;
+  border-radius: 5px;
+  background: #fff;
+  color: rgb(61, 92, 153);
+  font-size: 14px;
+  padding-left: 15px;
+  padding-right: 15px;
+  transition: all 0.2s;
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  -ms-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.2);
+}
+
+.button-map:hover {
+  background-color: rgb(61, 92, 153);
+  color: #fff;
+}
+.map__legend label {
+  cursor: pointer;
+  text-decoration: 1px underline transparent;
+  transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+}
+.map__legend label:hover {
+  text-decoration-color: #fff;
+  -moz-text-decoration-color: #fff;
+}
