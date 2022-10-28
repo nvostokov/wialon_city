@@ -592,7 +592,62 @@ var customLayer5 = L.geoJson(null, {
 omnivore.kml('kml/trot.kml', null, customLayer5).addTo(map);
 
 
+////
 
+$("#showAll").click(function(event) {
+  event.preventDefault();
+
+  $("#arh1")[0].checked = true;
+  $("#arh2")[0].checked = true;
+  $("#arh3")[0].checked = true;
+  $("#arh4")[0].checked = true;
+  $("#arh5")[0].checked = true;
+
+  $(".check").each(function(i, el) {
+    $(el).change(); // Trigger the event.
+  })
+});
+
+$("#clearAll").click(function(event) {
+  event.preventDefault();
+
+  $(".check").each(function(i, el) {
+    el.checked = false; // Set new status (unchecked) first.
+    $(el).change(); // Trigger the event.
+  })
+});
+
+$(".check").change(function() {
+  var layerClicked = $(this).attr("id");
+  switch (layerClicked) {
+    case "arh1":
+      toggleLayer(this.checked, customLayer);
+      break;
+    case "arh2":
+      toggleLayer(this.checked, customLayer2);
+      break;
+    case "arh3":
+      toggleLayer(this.checked, customLayer3);
+      break;
+    case "arh4":
+      toggleLayer(this.checked, customLayer4);
+      break;
+    case "arh5":
+      toggleLayer(this.checked, customLayer5);
+      break;
+      // ...and so on...
+  }
+});
+
+function toggleLayer(checked, layer) {
+	if (checked) {
+  	map.addLayer(layer);
+  } else {
+  	map.removeLayer(layer);
+  }
+}
+
+/////
 
 
 //добавить без цвета
