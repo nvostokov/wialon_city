@@ -187,6 +187,9 @@ body {
 }
 
 @media (max-width: 767px) {
+.button-map {
+	display:none;
+	}
   #map {
     height: 500px;
   }
