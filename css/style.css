@@ -246,7 +246,8 @@ body {
 	font-size:14px;
 	padding:5px 20px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #ffffff
+	text-shadow:0px 1px 0px #ffffff;
+  	transition: all 0.3s;
 }
 .button-map:hover {
 /* 	background:linear-gradient(to bottom, #5972a7 5%, #637aad 100%);
