@@ -239,8 +239,7 @@ body {
   }
 }
 
-
-.button-map {
+/* .button-map {
   cursor: pointer;
   width: 120px;
   height: 25px;
@@ -268,7 +267,32 @@ body {
 .button-map:hover {
   background-color: rgb(61, 92, 153);
   color: #fff;
+} */
+.button-map {
+	box-shadow:inset 0px 1px 0px 0px #7a8eb9;
+	background:linear-gradient(to bottom, #637aad 5%, #5972a7 100%);
+	background-color:#637aad;
+	border:1px solid #314179;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:14px;
+  width: 140px;
+	padding:5px 20px;
+	text-decoration:none;
+  margin-top: 10px;
+  transition: all 0.3s;
 }
+.button-map:hover {
+	background:linear-gradient(to bottom, #5972a7 5%, #637aad 100%);
+	background-color:#5972a7;
+}
+.button-map:active {
+	position:relative;
+	top:1px;
+}
+
+
 .map__legend label {
   cursor: pointer;
   text-decoration: 1px underline transparent;
