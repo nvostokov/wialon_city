@@ -16954,6 +16954,29 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
+		<Placemark>
+			<name>
+				Конецгорский пер.
+			</name>
+			<description>
+				Конецгорский пер., 8, Архангельск
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd589d0f
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.7217778382,64.486643273,0 40.721069735,64.4868835712,0 40.7205654797,64.4870499303,0 40.7198681053,64.4873318142,0 40.7189561543,64.487655284,0 40.7182909664,64.4878262593,0 40.715962809,64.4886857407,0
+				</coordinates>
+			</LineString>
+		</Placemark>
 	</Document>
 </kml>
 
