@@ -377,13 +377,6 @@ text-shadow:0px 1px 0px #ffffff;
   margin-bottom: 1em;
 }
 
-@media (max-width: 1400px) {
-#map {
-  height: 550px;
-}
-}
-
-
 @media (max-width: 767px) {
   .button-map {
     display: none;
