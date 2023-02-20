@@ -504,7 +504,7 @@ function initMap() {
   }).setView([64.54578, 40.54916],12);
 
   // add an OpenStreetMap tile layer
-  L.tileLayer('https://cdn.lima-labs.com/{z}/{x}/{y}.png?api=demo', {
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     // copyrights
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors | &copy; <a href="http://gurtam.com">Gurtam</a>'
   }).addTo(map);
