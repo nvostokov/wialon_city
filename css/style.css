@@ -414,6 +414,10 @@ text-shadow:0px 1px 0px #ffffff;
 
 
 @media (max-width: 992px) {
+  .map__weather-min {
+   top: -480px;
+  right: 10px;
+  }
   .button-map {
     display: none;
   }
@@ -477,14 +481,14 @@ text-shadow:0px 1px 0px #ffffff;
     #map {
       height: 500px;
     }
-    .map__weather-min {
-      top: 20px;
-      right: 10px;
-    }
   }
   
   @media (max-width: 479px) {
     #map {
       height: 450px;
+    }
+    .map__weather-min {
+      top: 70px;
+      left: 20px;
     }
   }
