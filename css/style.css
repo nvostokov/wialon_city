@@ -476,6 +476,10 @@ text-shadow:0px 1px 0px #ffffff;
     #map {
       height: 500px;
     }
+    .map__weather-min {
+      top: 20px;
+      right: 10px;
+    }
   }
   
   @media (max-width: 479px) {
