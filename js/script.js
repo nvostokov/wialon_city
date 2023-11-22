@@ -501,7 +501,7 @@ function initMap() {
   map = L.map('map', {
     // disable zooming, because we will use double-click to set up marker
     doubleClickZoom: false
-  }).setView([64.54578, 40.54916],12);
+  }).setView([64.54578, 40.54916], scaleMap);
 
   // add an OpenStreetMap tile layer
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
