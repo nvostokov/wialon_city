@@ -1,12 +1,44 @@
 #map {
         width: 100%;
-        height: 2000px;
+        height: 2600px;
         position: relative;
       }
       
+      .map__info {
+        top: 600px;
+        left: 70px;
+        transform: scale(1.4);
+      }
+
+      .map__legend {
+        top: 90px;
+        right: 70px;
+        transform: scale(1.4);
+      }
+
+      .map__weather {
+        top: 490px;
+        right: 70px;
+        transform: scale(1.4);
+      }
+      .map__weather-min {
+        display: none;
+      }
+      .map__logo {
+        top: 2540px;
+        right: 20px;
+      }
+      .map__logo img {
+        width: 50px;
+      }  
+
       @media (max-width: 3840px) {
         #map {
           height: 1600px;
+        }
+        .map__logo {
+          top: 1540px;
+          right: 20px;
         }
       }
       
@@ -14,19 +46,194 @@
         #map {
           height: 1000px;
         }
+        .map__info {
+          top: 500px;
+          left: 40px;
+          transform: scale(1.2);
+        }
+  
+        .map__legend {
+          top: 50px;
+          right: 40px;
+          transform: scale(1.2);
+        }
+  
+        .map__weather {
+          top: 400px;
+          right: 40px;
+          transform: scale(1.2);
+        }
+        .map__logo {
+          top: 940px;
+          right: 20px;
+        }
       }
       
       @media (max-width: 1920px) {
         #map {
           height: 700px;
         }
+        .map__info {
+          top: 400px;
+          left: 15px;
+          transform: scale(1);
+        }
+  
+        .map__legend {
+          top: 15px;
+          right: 15px;
+          transform: scale(1);
+        }
+  
+        .map__weather {
+          top: 310px;
+          right: 15px;
+          transform: scale(1);
+        }
+        .map__logo {
+          top: 640px;
+          right: 15px;
+        }
+        .map__logo img {
+          width: 50px;
+        }
       }
       
-      @media (max-width: 1300px) {
-        #map {
-          height: 550px;
+    @media (max-width: 1400px) {
+      #map {
+        height: 500px;
+      }
+      .map__weather {
+        display: block;
+        top: 150px;
+        right: -30px;
+        transform: scale(0.6);
+      }
+      .map__info {
+        top: 300px;
+        left: -25px;
+        transform: scale(0.7);
+      }
+
+      .map__legend {
+        top: -40px;
+        right: -30px;
+        transform: scale(0.6);
+      }
+      .map__logo {
+        top: 455px;
+        right: 15px;
+      }
+      .map__logo img {
+        width: 35px;
+      }
+      .leaflet-touch .leaflet-control-attribution, .leaflet-touch .leaflet-control-layers, .leaflet-touch .leaflet-bar {
+        font-size: 8px;
+      }
+    }
+      
+    @media (max-width: 992px) {
+      .map__weather-min {
+        display: block;
+        top: 0px;
+        right: 0px;
+        transform: scale(0.7);
+      }
+      .map__weather {
+        display: none;
+      }
+      .button-map {
+        display: none;
+      }
+      .map__legend {
+        top: 410px;
+        left: 15px;
+        width: 100px;
+        color: #fff;
+        padding: 10px 10px 10px 25px;
+        font-size: 10px;
+        transform: scale(1);
+      }
+        .map__legend p {
+          display: none;
         }
-        .leaflet-container .leaflet-control-attribution, .leaflet-container .leaflet-control-scale {
+        .map__red,
+        .map__purple,
+        .map__blue,
+        .map__green,
+        .map__black {
+          font-size: 9px;
+        }
+        .map__red::before,
+        .map__purple::before,
+        .map__blue::before,
+        .map__green::before,
+        .map__black::before {
+          width: 10px;
+          left: -15px;
+        }
+        .map__info {
+          font-size: 9px;
+          top: 520px;
+          left: 15px;
+          width: 200px;
+          padding: 10px;
+          transform: scale(1);
+        }
+        .map__logo {
+          opacity: 0.8;
+          position: absolute;
+          top: 460px;
+          right: 15px;
+        }
+        
+        .map__logo img {
+          width: 30px;
+        }
+        
+        .map__ts select {
+          height: 20px;
+          width: 150px;
+          margin-left: 10px;
+        }
+      }
+      @media (max-width: 767px) {
+        .map__logo img {
+          width: 25px;
+        }
+        #map {
+          height: 500px;
+        }
+        .leaflet-control-zoom {
+          position: absolute;
+          top: -5px;
+          left: -5px;
+          transform: scale(0.8);
+        }
+      }
+      
+      @media (max-width: 479px) {
+        #map {
+          height: 450px;
+        }
+        .map__weather-min {
+          top: -15px;
+          right: -25px;
+          transform: scale(0.4);
+        }
+        .map__legend {
+          top: 365px;
+          left: 15px;
+        }
+        .map__info {
+          top: 470px;
+          left: 15px;
+        }
+        .map__logo {
+          top: 420px;
+          right: 15px;
+        }
+        .leaflet-touch .leaflet-control-attribution, .leaflet-touch .leaflet-control-layers, .leaflet-touch .leaflet-bar {
           font-size: 6px;
         }
       }
