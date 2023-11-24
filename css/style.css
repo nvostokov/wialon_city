@@ -40,9 +40,9 @@ body {
   display: none;
 }
 
-.wrapper {
+/*.wrapper {
   position: relative;
-}
+}*/
 
 .map__info {
   position: absolute;
