@@ -217,7 +217,7 @@
           height: 450px;
         }
         .map__weather-min {
-          top: -15px;
+          top: -10px;
           right: -25px;
           transform: scale(0.4);
         }
