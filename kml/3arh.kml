@@ -2859,6 +2859,213 @@
 		</Placemark>
 		<Placemark>
 			<name>
+				КИЗ Лето
+			</name>
+			<description>
+				Маймаксанская ул., 5, Архангельск
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd589d0f
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.4946778229,64.6213950059,0 40.4940555504,64.6213628174,0 40.4935083798,64.6213122353,0 40.4928539208,64.6212248662,0 40.4923496655,64.6211742839,0 40.491072934,64.6209259696,0 40.4895923546,64.6206132742,0 40.4887018613,64.6213490223,0 40.4883478097,64.6215789395,0 40.4881439618,64.6218548375,0 40.4877684525,64.6222318937,0 40.4868672303,64.6230089807,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				КИЗ Лето
+			</name>
+			<description>
+				Киз Лето, 20, Архангельск
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd589d0f
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.4877972314,64.6222480626,0 40.4894816587,64.6226641975,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				КИЗ Лето
+			</name>
+			<description>
+				Киз Лето, 33, Архангельск
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd589d0f
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.4865226544,64.6199579967,0 40.4895696438,64.6206109898,0 40.4905352391,64.6198476301,0 40.4894838131,64.6196452902,0 40.4889902867,64.6195073303,0 40.4886255062,64.619364771,0 40.4882714546,64.6193371788,0 40.4879925049,64.6192268097,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				КИЗ Лето
+			</name>
+			<description>
+				Киз Лето, 37, Архангельск
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd589d0f
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.4863472335,64.6209237174,0 40.4885627382,64.6213996513,0 40.4887719505,64.6213904546,0 40.4904349201,64.621930756,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				КИЗ Лето
+			</name>
+			<description>
+				Киз Лето, 20, Архангельск
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd589d0f
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.4877221295,64.6222204774,0 40.487432451,64.6220227534,0 40.4869603822,64.621714669,0 40.4869174668,64.6214801546,0 40.4869174668,64.6210938912,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Новая геозона
+			</name>
+			<description>
+				Киз Лето, 37, Архангельск
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd307b19
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.4861132997,64.6216708138,0 40.4860691312,64.6215190799,0 40.4861335042,64.6213305475,0 40.4862515214,64.6212109897,0 40.4866484883,64.6210431481,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				КИЗ Лето
+			</name>
+			<description>
+				Киз Лето, 37, Архангельск
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd589d0f
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.4867037914,64.6210294597,0 40.4862478159,64.6212225926,0 40.4861190699,64.6213651421,0 40.4860654257,64.6214961951,0 40.4860815189,64.6216617348,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				КИЗ Лето
+			</name>
+			<description>
+				Киз Лето, 30, Архангельск
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd589d0f
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.490011219,64.6217548826,0 40.4902392068,64.6217594809,0 40.4905878939,64.6218227073,0 40.4907649197,64.62184225,0 40.4910465517,64.6218020151,0 40.4913174548,64.6217318911,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				КИЗ Лето
+			</name>
+			<description>
+				Киз Лето, 59, Архангельск
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd589d0f
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.4905910159,64.6198477267,0 40.4912883903,64.6199667157,0 40.4916679228,64.6200966257,0 40.4918677474,64.6201977942,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
 				дорога ул. Мудьюгская 47 до д. Кошканица
 			</name>
 			<description>
@@ -17894,29 +18101,6 @@
 			<LineString>
 				<coordinates>
 					40.4987106151,64.6118114105,0 40.4991588079,64.6107476774,0 40.500494548,64.6108109294,0 40.500803002,64.610860381,0 40.5036885912,64.6110512275,0 40.5055124934,64.6111892303,0
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>
-				Проезды на территории КИЗ Лето
-			</name>
-			<description>
-				Проезды на территории КИЗ &quot;Лето&quot;
-			</description>
-			<Style>
-				<LineStyle>
-					<color>
-						dd589d0f
-					</color>
-					<width>
-						10.0
-					</width>
-				</LineStyle>
-			</Style>
-			<LineString>
-				<coordinates>
-					40.4941114183,64.622737706,0 40.4888583999,64.6213352568,0 40.4885687213,64.6215559775,0 40.4850133653,64.6218824407,0 40.488525806,64.6215628696,0 40.4877855163,64.6222250206,0 40.4894765611,64.6226641358,0 40.4877747874,64.6222296188,0 40.4868158098,64.6230227884,0 40.4896390986,64.6206845964,0 40.4866870637,64.6200798579,0 40.4894765611,64.6206500756,0 40.4897452218,64.6204667642,0 40.4906996484,64.6198223363,0 40.4897455736,64.6204622087,0 40.4897402092,64.6206495974,0 40.4923422158,64.6211830483,0 40.4928666756,64.6212186965,0 40.4941260607,64.6213934453,0 40.4946693178,64.6214226095,0
 				</coordinates>
 			</LineString>
 		</Placemark>
