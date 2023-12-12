@@ -2376,7 +2376,7 @@
 		</Placemark>
 		<Placemark>
 			<name>
-				Новая геозона
+				ул. Холмогорская
 			</name>
 			<description>
 				Ленина ул., 24, Архангельск
@@ -2969,29 +2969,6 @@
 			<LineString>
 				<coordinates>
 					40.4877221295,64.6222204774,0 40.487432451,64.6220227534,0 40.4869603822,64.621714669,0 40.4869174668,64.6214801546,0 40.4869174668,64.6210938912,0
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>
-				Новая геозона
-			</name>
-			<description>
-				Киз Лето, 37, Архангельск
-			</description>
-			<Style>
-				<LineStyle>
-					<color>
-						dd307b19
-					</color>
-					<width>
-						10.0
-					</width>
-				</LineStyle>
-			</Style>
-			<LineString>
-				<coordinates>
-					40.4861132997,64.6216708138,0 40.4860691312,64.6215190799,0 40.4861335042,64.6213305475,0 40.4862515214,64.6212109897,0 40.4866484883,64.6210431481,0
 				</coordinates>
 			</LineString>
 		</Placemark>
