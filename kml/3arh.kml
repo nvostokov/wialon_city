@@ -17393,29 +17393,6 @@
 		</Placemark>
 		<Placemark>
 			<name>
-				автодорога ул. Доковская (д. 6-д. 15)
-			</name>
-			<description>
-				автодорога ул. Доковская (д. 6-д. 15)
-			</description>
-			<Style>
-				<LineStyle>
-					<color>
-						dd589d0f
-					</color>
-					<width>
-						10.0
-					</width>
-				</LineStyle>
-			</Style>
-			<LineString>
-				<coordinates>
-					40.6305298195,64.4667034301,0 40.6285879002,64.4670363927,0 40.6273862705,64.4671658771,0 40.6252405033,64.4672768633,0 40.6229552613,64.4677762953,0
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>
 				Пос. Динамо от ул. Набережная по ул. Кирпичная, Горная с выездом в обратном направлении
 			</name>
 			<description>
