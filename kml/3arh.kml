@@ -3135,6 +3135,29 @@
 		</Placemark>
 		<Placemark>
 			<name>
+				От ул. Тяговая - павильон останов. Автобуса до больницы СЖД
+			</name>
+			<description>
+				Тяговая ул., Архангельск
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd51b24d
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.6129001959,64.4426484481,0 40.6170737131,64.4427086195,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
 				дорога ул. Мудьюгская 47 до д. Кошканица
 			</name>
 			<description>
