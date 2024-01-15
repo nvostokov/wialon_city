@@ -3702,6 +3702,29 @@
 		</Placemark>
 		<Placemark>
 			<name>
+				Ул. Кировская от ул. Мостовой до ул. Мусинского
+			</name>
+			<description>
+				Ул. Кировская от ул. Мостовой до ул. Мусинского
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd424242
+					</color>
+					<width>
+						4.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.5912774999,64.592316531,0 40.5896519933,64.5925915645,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
 				ул. Поморская
 			</name>
 			<description/>
@@ -5443,7 +5466,7 @@
 			<Style>
 				<LineStyle>
 					<color>
-						dd000000
+						dd424242
 					</color>
 					<width>
 						4.0
@@ -5452,7 +5475,7 @@
 			</Style>
 			<LineString>
 				<coordinates>
-					40.5824579569,64.5937894844,0 40.5785043808,64.5944546134,0 40.5783595415,64.5944292974,0 40.5752481791,64.5949517235,0
+					40.5831160656,64.5936687738,0 40.5785043808,64.5944546134,0 40.5783595415,64.5944292974,0 40.574844133,64.595035844,0
 				</coordinates>
 			</LineString>
 		</Placemark>
