@@ -4491,6 +4491,29 @@
 		</Placemark>
 		<Placemark>
 			<name>
+				ул. Касаткиной
+			</name>
+			<description>
+				ул. Касаткиной
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd0d100c
+					</color>
+					<width>
+						4.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.5924761745,64.5305225759,0 40.5933559391,64.532248054,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
 				ул. Троицкий +Логинова + Садовая + Набережной
 			</name>
 			<description/>
@@ -5153,7 +5176,7 @@
 			</Style>
 			<LineString>
 				<coordinates>
-					40.593435992,64.5322757401,0 40.5906035792,64.5264991179,0
+					40.591199443,64.5286816381,0 40.5901909324,64.5264898835,0
 				</coordinates>
 			</LineString>
 		</Placemark>
