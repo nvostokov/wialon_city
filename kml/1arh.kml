@@ -1978,6 +1978,38 @@
 		</Placemark>
 		<Placemark>
 			<name>
+				Парковка ул. Поморская - наб. Сев. Двины
+			</name>
+			<description>
+				Северной Двины набережная, 71, Архангельск
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						992a39ff
+					</color>
+					<width>
+						50.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						992a39ff
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							40.5232626057,64.5331819163,0 40.5231499529,64.5330665842,0 40.5231955505,64.5330585109,0 40.5233365327,64.5332005755,0 40.5227330357,64.5334681439,0 40.5224970013,64.5333481998,0 40.5232626057,64.5331819163,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
 				Разворотная площадка
 			</name>
 			<description>
