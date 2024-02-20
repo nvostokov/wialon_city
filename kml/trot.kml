@@ -5111,6 +5111,29 @@
 		</Placemark>
 		<Placemark>
 			<name>
+				пр. Новгородский
+			</name>
+			<description>
+				Карла Либкнехта ул., Архангельск
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd000000
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.5301446616,64.5404962899,0 40.5296350419,64.5408952282,0 40.5292166173,64.5412734072,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
 				ул. Розинга
 			</name>
 			<description>
