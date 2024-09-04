@@ -67,7 +67,9 @@
 // Token that will be used for auth
 // For more info about how to generate token check
 // http://sdk.wialon.com/playground/demo/app_auth_token
-var TOKEN = '77871cc96f35b9db2ee23e45dafe6f4dE0059C2D12143998246A0D049E66DA09E4BA0177';
+var TOKEN = 'a81938b31a4ae6e0e6bc2e276f9af2310E8F5CBE41D14136ECB262E6183C37AA2820B810';
+
+//var TOKEN = '77871cc96f35b9db2ee23e45dafe6f4dE0059C2D12143998246A0D049E66DA09E4BA0177'; до 02.09 с VPN
 
 // global variables
 var map, marker, markerByUnit = {},
