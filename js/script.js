@@ -672,7 +672,7 @@ function toggleLayer(checked, layer) {
 // execute when DOM ready
 $(document).ready(function () {  
   // init session
-  wialon.core.Session.getInstance().initSession("https://hst-api.wialon.com");
+  wialon.core.Session.getInstance().initSession("https://hst-api.wialon.host"); //.com change to .host 
 
   wialon.core.Session.getInstance().loginToken(TOKEN, "", // try to login
     function (code) { // login callback
