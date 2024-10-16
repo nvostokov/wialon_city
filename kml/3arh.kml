@@ -17646,6 +17646,29 @@
 		</Placemark>
 		<Placemark>
 			<name>
+				ул. Серафимовича от Космонавтов до Обводного
+			</name>
+			<description>
+				ул. Серафимовича от Набережной СД до пр. Сов. Космонавтов
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd51b24d
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					40.5405576827,64.5381274819,0 40.5436690452,64.5398294184,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
 				Пос. Динамо от ул. Набережная по ул. Кирпичная, Горная с выездом в обратном направлении
 			</name>
 			<description>
